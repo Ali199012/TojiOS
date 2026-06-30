@@ -1,0 +1,4 @@
+tojios
+*.o
+*.obj
+.DS_Store
